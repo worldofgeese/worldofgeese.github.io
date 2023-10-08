@@ -1,3 +1,3 @@
 public:: true
 
-- A roaring inferno of unpredictable power, Kossuth is the Lord of Flames. His faithful view him as both a destroyer and a creator, for fire cleanses as it consumes. Worshiped by those who respect or fear the elemental power of fire, from blacksmiths to fire mages, Kossuth's doctrine teaches mastery over the volatile element.
+- A roaring inferno of unpredictable power, Kossuth is the Lord of Flames. His faithful view him as both a destroyer and a creator, for fire cleanses as it consumes. Worshiped by those who respect or fear the elemental power of fire, from blacksmiths to fire mages, Kossuth's doctrine teaches mastery over the volatile element. The [[Forgotten Realms/Organizations/Church of Kossuth]] is the mortal body of his worship.
