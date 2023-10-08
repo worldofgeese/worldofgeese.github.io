@@ -1,0 +1,3 @@
+public:: true
+
+- Known as the Lord of Murder, Bhaal is the embodiment of violent death. His doctrine is simple: kill or be killed. His dark clergy often serve as assassins or executioners, doing the grim work they believe is divinely mandated. It's rumored that Bhaal seeks to tip the balance of life and death, forever plunging the world into chaos.
