@@ -1,3 +1,0 @@
-public:: true
-
-- The day the sky turned to fire, Mount Hotenow erupted in a cataclysmic event that left Neverwinter in ruin and despair. Molten rock spewed high into the air, while rivers of lava scarred the land, altering its very shape. It wasn't just the earth that suffered; the eruption brought forth malevolent creatures from the Elemental Plane of Fire. Whispers suggest that this wasn't a mere geological occurrence but a tragic event orchestrated by the [[Forgotten Realms/Organizations/Church of Kossuth]].
