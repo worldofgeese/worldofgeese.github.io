@@ -1,5 +1,0 @@
-public:: true
-
-- Once a tranquil haven for the grung community, [[Locations/Chult/Dungrunglung]] is now an occupied city with few grung survivors. Led by insatiable greed and an appetite for destruction, a warband of bullywugs ravaged the village with ruthless aggression. Their abhorrence for the grung is well-known, and their recent onslaught proves their dedication to their vile cause.
-- Armed with explosive munitions that can level entire habitats, they laid waste to the settlement, annihilating even the village's most formidable sorcerers and warriors. One survivor's tale adds a layer of tragedy: an audacious plan to infiltrate the bullywug camp and detonate their cache of explosives went horribly awry due to a moment of avarice, ultimately leading to the community's downfall.
-- Now, Dungrunglung serves as a haunting tale told in hushed tones throughout [[Locations/Chult]] . The bullywugs' dark shadow looms larger, and the grung know that they must band together to fend off the looming threat—lest their entire species be wiped from the annals of history.
