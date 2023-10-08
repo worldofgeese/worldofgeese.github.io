@@ -1,0 +1,3 @@
+public:: true
+
+- The Deity of Archery and the Hunt, Solonor Thelandira is the ethereal ranger of the gods. Adored in forests and wild spaces, he stands as the ultimate hunter, tracking evil like a wolf on the scent. Worshiped by rangers and druids alike, he is the guardian of the natural world and the master of the bow, advocating for balance over destruction. The [[Forgotten Realms/Organizations/Church of Solonor Thelandira]] is the mortal body of his worship.

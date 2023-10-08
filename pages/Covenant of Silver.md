@@ -1,0 +1,3 @@
+public:: true
+
+- Once a year, members of the [[Forgotten Realms/Organizations/Temple of Bahamut]], [[Forgotten Realms/Organizations/Temple of Selûne]], and the [[Forgotten Realms/Organizaetions/Temple of Solonor Thelandira]] donate faithful warriors on a mission to light the darkest places of the Sword Coast. This is the Covenant of Silver, named for the silver scales of [[Bahamut]], the silver arrows of [[Solonor Thelandira]], and the silver tears of [[Selûne]]. See [[Forgotten Realms/Organizations/Church of Bahamut]], [[Forgotten Realms/Organizations/Church of Selûne]], and [[Forgotten Realms/Organizations/Church of Solonor Thelandira]].
