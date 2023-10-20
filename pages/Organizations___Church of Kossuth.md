@@ -1,0 +1,4 @@
+public:: true
+
+- Embers of devotion flicker within the sanctuaries of the Church of [[Kossuth]], a spiritual fortress devoted to the Lord of Flames. Marked by grand braziers and sacred pyres, the temples serve as arenas for ceremonial fire dances and ritual sacrifices. The clergy, often Fire Adepts and Flamekeepers, stoke the spiritual blaze of their congregations, guiding them through trials by fire—sometimes metaphorical, often literal. Adherents say that Kossuth's divine heat can purify the soul and forge the spirit anew.
+- Rumors circulate that the church possesses ancient relics with the power to control even the wildest of flames, and their high priests are said to commune directly with the Elemental Plane of Fire. Yet, their influence is a double-edged sword; they can either be protectors in times of frigid darkness or instigators of calamitous infernos.
