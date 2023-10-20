@@ -1,0 +1,4 @@
+public:: true
+
+- [[Sahuagin]] are fish-like humanoids of evil intent. The adventurers faced an ambush from these merciless sea dwellers on board the [[Krr'ook's Con]] . Armed with nets and riding killer whales, they demonstrated their penchant for dragging victims into the sea. One even targeted the ship's dog, [[Sparky]]. Though [[Toad]]'s magic scared them away, their real plans remain unknown.
+- [[Merfolk]] are aquatic beings who embody both human and fish characteristics. Unlike the savage [[Sahuagin]] , the Merfolk the adventurers met were gracious guides, leading the ship to Dragon's Rest on [[Stormwreck Isle]]. Whether by divine providence or simple kindness, their guidance saved the crew from further peril at sea.
