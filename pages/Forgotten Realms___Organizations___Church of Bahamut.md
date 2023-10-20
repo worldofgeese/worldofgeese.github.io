@@ -1,3 +1,0 @@
-public:: true
-
-- A fortress of law and righteousness, the Church of [[Bahamut]] is a rallying point for paladins, clerics, and those who fight against evil's encroachment. With scales of pure silver and breaths of fire and frost, its members are living embodiments of their draconic deity. Yet, rumors suggest a schism within the Church—one faction seeks to clease the world with the cold breath of Bahamut, while another aims to temper justice with mercy.

@@ -4,3 +4,5 @@ public:: true
 - [[Runara]]
 - [[Ember's Mentor]]
 - [[Varnoth]]
+- [[Sparky]]
+- [[Myla]]

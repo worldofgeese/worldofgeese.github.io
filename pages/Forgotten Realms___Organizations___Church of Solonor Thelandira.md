@@ -1,3 +1,0 @@
-public:: true
-
-- Within the verdant groves and hidden clearings of the Forgotten Realms, the Church of [[Solonor Thelandira]] celebrates the hunt and the natural cycle of life and death. Its rangers and druids are keepers of ancient woodland lore and unparalleled archers. As the protectors of nature, they are revered by many, but stories circulate about their ruthless pursuit of those who defile the natural world, leaving some to question just how far they'll go to fulfill their deity's will.

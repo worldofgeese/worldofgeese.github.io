@@ -4,3 +4,4 @@ public:: true
 - [[Organizations/Church of Selûne]]
 - [[Organizations/Church of Bahamut]]
 - [[Organizations/Church of Solonor Thelandira]]
+- [[Organizations/Church of Kossuth]]
