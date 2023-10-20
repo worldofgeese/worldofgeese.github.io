@@ -1,1 +1,3 @@
-- [[Baldur's Gate/Bloomridge/Temple of Bhaal]]
+public:: true
+
+- The Undercity is a sprawling labyrinth beneath the streets, a place of shadows and forgotten lore. It is whispered among those who dare speak of it that this subterranean realm is home to the [[Baldur's Gate/Undercity/Temple of Bhaal]], the God of Murder. Only the bravest or most foolhardy adventurers venture into its dark corridors, guided by the rare map or the even rarer personal account. The Undercity is filled with traps, secret passages, and unspeakable horrors.
