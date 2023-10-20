@@ -1,3 +1,2 @@
 public:: true
-
 - A bustling harbor under the rule of seven merchant princes, Port Nyanzaru is the gateway to Chult’s perilous interior. With its vibrant bazaars and coliseum of dinosaur races, the port is a melting pot of culture and commerce. It's said that those who gain the favor of the princes might access the mysteries hidden in the city's forbidden temples. By ship, Port Nyanzaru is two to three weeks travel from [[Baldur's Gate]].

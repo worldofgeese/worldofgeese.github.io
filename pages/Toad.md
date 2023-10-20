@@ -9,9 +9,10 @@ public:: true
 - ### Appearance
 	- Toad stands at 3.5 feet, with warty, poisonous red skin that signifies his caste. He has large black eyes that miss little, yet reveal less. Weighing just 30 pounds, he is bald and asexual, as is common for his species.
 - ### Profession and Skills
-	- Sailor by trade and a red Grung by caste, Toad is competent in both seafaring and elemental magics. Although not as powerful as his late elder brothers, he possesses a natural affinity for water-based spells. With a good relationship among sailors and captains, Toad can secure passage on ships when required, thanks to his background feature of "Ship's Passage."
+	- Sailor by trade and a red Grung by caste, Toad is competent in both seafaring and elemental magics.
 - ### Goals and Beliefs
-	- Toad's primary goals involve reclaiming his and his tribe's lost honor by driving off the bullywugs and finding a new sanctuary. He believes that stories about cursed islands are just tales created to ward off seekers of powerful objects. Toad is on a quest to find such an object to turn the tide in favor of the Grung.
+	- Toad's primary goals involve reclaiming his and his tribe's lost honor by driving off the bullywugs and finding a new sanctuary. He believes that stories about cursed islands are just tales created to ward off seekers of powerful objects. Toad is tied to the island by rumors of a powerful amulet with powers over death itself. It is believed to be entombed in a shipwreck by the shores.
+	  id:: 65296f09-5bcc-4d6e-91e2-da387a8d4b43
 - ### Instincts
 	- When in doubt, sneak about.
 	- If it's loose, take it for use.

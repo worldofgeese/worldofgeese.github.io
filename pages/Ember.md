@@ -11,7 +11,9 @@ public:: true
 - ### Profession and Skills
 	- Ember found a home with a roving circus troupe in the Material Plane, a haven for misfits like her. Here, she learned to wield a bow and arrow, combining her innate fire abilities for enthralling performances. She also dabbles in peddling fake potions and elixirs, making use of her charlatan background which provided her with an array of colorful, stoppered bottles.
 - ### Goals and Beliefs
-	- Her stage name, "Ember," embodies her essence and mission. She passionately worships Kossuth and believes in the concept of purification by fire. She's on a personal quest to hunt down a great dragon, to be bathed in its flame: the ultimate purification. A fellow ranger named Sneev knows the location of [[Stormwreck Isle]]—mentioned in a tome she discovered—that could hold the key to locating her draconic adversary.
+	- Ember is on a personal quest to hunt down a great dragon, to be bathed in its flame: the ultimate purification. A fellow ranger named Sneev knows the location of [[Stormwreck Isle]] —mentioned in a tome she discovered—that could hold the key to locating her draconic adversary.
+	  id:: 652bbef0-7990-42b6-ac84-26ac08e6e8ea
+	- Her stage name, "Ember," embodies her essence and mission. She passionately worships Kossuth and believes in the concept of purification by fire.
 - ### Instincts
 	- When truth's askew, add a twist or two.
 	- When dice are in sight, let luck take flight.

@@ -1,3 +1,2 @@
 public:: true
-
 - In the heart of Chult's labyrinthine jungles lies Dungrunglung, the floating fortress of the Grung. Surrounded by deadly flora and fauna, this enclave of amphibian warriors was ruled by an ever-changing cast of mad kings and prophetic tadpoles. Severely marked by the catastrophic event known as the "Massacre of Dungrunglung," it’s a community grappling with its tragic past. Whispers say that Dungrunglung holds ancient Grung artifacts that could either cement its resurgence or plunge it into deeper sorrow, depending on who uncovers them first.

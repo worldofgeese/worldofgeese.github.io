@@ -1,3 +1,3 @@
 public:: true
 
-- The Platinum Dragon and God of Justice, Bahamut stands as the epitome of righteousness and compassion. Revered by gold dragons and mortals alike, his followers embrace a doctrine of empathy and fairness. Detesting battle, Bahamut often seeks diplomatic resolutions, though his icy breath and disintegrating roar remind all that he is far from defenseless. The [[Forgotten Realms/Organizations/Church of Bahamut]] is the mortal body of his worship.
+- The Platinum Dragon and God of Justice, Bahamut stands as the epitome of righteousness and compassion. Revered by gold dragons and mortals alike, his followers embrace a doctrine of empathy and fairness. Detesting battle, Bahamut often seeks diplomatic resolutions, though his icy breath and disintegrating roar remind all that he is far from defenseless. The [[Organizations/Church of Bahamut]] is the mortal body of his worship.

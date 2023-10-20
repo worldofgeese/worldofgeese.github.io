@@ -1,3 +1,3 @@
 public:: true
 
-- Goddess of the Moon and sister to Shar, Selûne is the guiding light in the night sky and the whisperer of prophecies. She holds the dual nature of the moon in her being—calm and luminous, yet ever-changing. Her clergy are often seers or healers, known for their celestial magic and wisdom. Whispers say they guard portals to otherworldly realms. The [[Forgotten Realms/Organizations/Church of Selûne]] is the mortal body of her worship.
+- Goddess of the Moon and sister to Shar, Selûne is the guiding light in the night sky and the whisperer of prophecies. She holds the dual nature of the moon in her being—calm and luminous, yet ever-changing. Her clergy are often seers or healers, known for their celestial magic and wisdom. Whispers say they guard portals to otherworldly realms. The [[Organizations/Church of Selûne]] is the mortal body of her worship.
