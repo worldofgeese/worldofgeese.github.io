@@ -1,5 +1,5 @@
 ---
-title: Don't delay, write your first PR today: how GitHub Codespaces and GitHub Copilot enable warp-speed development
+title: Don't delay, write your first PR today - how GitHub Codespaces and GitHub Copilot enable warp-speed development
 lead: Fast onboarding to new projects with GitHub Codespaces and Copilot
 published: 2024-07-08
 tags: [codespaces, github]
